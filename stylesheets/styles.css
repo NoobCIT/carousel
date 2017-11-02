@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+
+.container {
+  width: 1980px;
+  height: 340px;
+
+}
+
+#left-arrow img {
+  width:  10%;
+  height: auto;
+  float:left;
+  margin: auto;
+}
+
+#images img {
+  width: 30%;
+  height: auto;
+  float:left;
+    margin: auto;
+}
+
+#right-arrow img {
+  width: 10%;
+  height: auto;
+    margin: auto;
+}
+
+#frame1, #frame2, #frame3, #frame4 {
+  width: 10px;
+  height: 10px;
+  border-style: solid;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 6px;
+}
+
+.wrapper {
+  width: 100px;
+  height: 20px;
+  margin-left: 198px;
+}
